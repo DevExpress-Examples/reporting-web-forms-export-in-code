@@ -4,6 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Reporting for Web Forms -  Export a Report in Code
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/128602652/)**
+<!-- run online end -->
 
 This example usses the Response.BinaryWrite method to export an XtraReport instance in an ASP.NET application.
 
