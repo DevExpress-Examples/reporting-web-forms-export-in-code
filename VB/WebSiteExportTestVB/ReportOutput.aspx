@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="true" CodeFile="ReportOutput.aspx.vb" Inherits="ReportOutput" %>
+﻿<%@ Page Language="VB" AutoEventWireup="true" CodeFile="ReportOutput.aspx.vb" Inherits="ReportOutput" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 

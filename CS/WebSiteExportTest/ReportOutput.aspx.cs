@@ -23,16 +23,16 @@ public partial class ReportOutput : System.Web.UI.Page {
 
     public void ExportReport(XtraReport report, string fileName, string fileType, bool inline) {
         MemoryStream stream = new MemoryStream();
-        
+
         Response.Clear();
-        
-        if(fileType == "xls")
+
+        if (fileType == "xls")
             report.ExportToXls(stream);
-        if(fileType == "pdf")
+        if (fileType == "pdf")
             report.ExportToPdf(stream);
-        if(fileType == "rtf")
+        if (fileType == "rtf")
             report.ExportToRtf(stream);
-        if(fileType == "csv")
+        if (fileType == "csv")
             report.ExportToCsv(stream);
 
         Response.ContentType = "application/" + fileType;
