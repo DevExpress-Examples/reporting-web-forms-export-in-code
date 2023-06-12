@@ -13,11 +13,11 @@ Select the export file format and specify whether the exported document should b
 
 ## Files to Review
 
-* [XtraReport1.cs](./CS/WebSiteExportTest/App_Code/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WebSiteExportTest/App_Code/XtraReport1.vb))
-* [Default.aspx](./CS/WebSiteExportTest/Default.aspx) (VB: [Default.aspx](./VB/WebSiteExportTest/Default.aspx))
-* [Default.aspx.cs](./CS/WebSiteExportTest/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSiteExportTest/Default.aspx.vb))
-* [ReportOutput.aspx](./CS/WebSiteExportTest/ReportOutput.aspx) (VB: [ReportOutput.aspx](./VB/WebSiteExportTest/ReportOutput.aspx))
-* [ReportOutput.aspx.cs](./CS/WebSiteExportTest/ReportOutput.aspx.cs) (VB: [ReportOutput.aspx.vb](./VB/WebSiteExportTest/ReportOutput.aspx.vb))
+* [XtraReport1.cs](./CS/WebSiteExportTest/App_Code/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WebSiteExportTestVB/App_Code/XtraReport1.vb))
+* [Default.aspx](./CS/WebSiteExportTest/Default.aspx) (VB: [Default.aspx](./VB/WebSiteExportTestVB/Default.aspx))
+* [Default.aspx.cs](./CS/WebSiteExportTest/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSiteExportTestVB/Default.aspx.vb))
+* [ReportOutput.aspx](./CS/WebSiteExportTest/ReportOutput.aspx) (VB: [ReportOutput.aspx](./VB/WebSiteExportTestVB/ReportOutput.aspx))
+* [ReportOutput.aspx.cs](./CS/WebSiteExportTest/ReportOutput.aspx.cs) (VB: [ReportOutput.aspx.vb](./VB/WebSiteExportTestVB/ReportOutput.aspx.vb))
 
 ## Documentation
 
