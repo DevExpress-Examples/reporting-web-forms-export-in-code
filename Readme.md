@@ -21,7 +21,7 @@ Select the export file format and specify whether the exported document should b
 
 ## Documentation
 
-- [Print and Export Reports without a Preview in ASP.NET Web Forms Applications](https://docs.devexpress.com/XtraReports/404502/web-reporting/common-features/printing#print-and-export-reports-without-a-preview)
+- [Printing and Export in Reporting Tools for Web](https://docs.devexpress.com/XtraReports/404502/web-reporting/common-features/printing)
 - [Export Reports](https://docs.devexpress.com/XtraReports/1302/detailed-guide-to-devexpress-reporting/store-and-distribute-reports/export-reports)
 
 ## More Examples
