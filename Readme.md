@@ -1,6 +1,7 @@
 <!-- default badges list -->
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1281)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
@@ -12,9 +13,6 @@
 * [ReportOutput.aspx.cs](./CS/WebSite/ReportOutput.aspx.cs) (VB: [ReportOutput.aspx.vb](./VB/WebSite/ReportOutput.aspx.vb))
 <!-- default file list end -->
 # How to programmatically export a report in an ASP.NET application
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128602652/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to export an XtraReport instance in an ASP.NET application via the Response.BinaryWrite() method. First, in the Default.aspx page, you should select the export file format and specify whether the exported document intended to be displayed "inline" i. e. in the same browser window. Then, click the "Export" button. The report is created and stored in the Session variable. The user is then redirected to the ReportOutput.aspx. The report, persisting in the Session, will be exported to this page base in the settings you've specified on the first page.</p>
@@ -22,3 +20,10 @@
 <br/>
 
 
+<!-- feedback -->
+## Does this example address your development requirements/objectives?
+
+[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-web-forms-export-in-code&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-web-forms-export-in-code&~~~was_helpful=no)
+
+(you will be redirected to DevExpress.com to submit your response)
+<!-- feedback end -->
