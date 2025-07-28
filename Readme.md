@@ -6,7 +6,7 @@
 <!-- default badges end -->
 # Reporting for Web Forms -  Export a Report in Code
 
-This example usses the Response.BinaryWrite method to export an XtraReport instance in an ASP.NET application.
+This example uses the `Response.BinaryWrite` method to export an XtraReport instance in an ASP.NET application.
 
 Select the export file format and specify whether the exported document should be displayed in the same browser window (inline). Click the "Export" button. The report is created and stored in the `Session` variable. The user is redirected to the `ReportOutput.aspx` page. The report is obtained from `Session` and exported to the specified format.
 
